@@ -8,7 +8,7 @@ void setup() {
 
 void draw()
 {
-  save("ANAKIN.Halloween.png");
+
 }
 void mouseDragged()
 {
